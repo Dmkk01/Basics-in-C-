@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"name": "1.1: Hello World",
+			"path": "hello_world"
+		},
+		{
+			"name": "1.2: Correct figures",
+			"path": "correct_figures"
+		},
+		{
+			"name": "1.3: PowerThree",
+			"path": "power_three"
+		},
+		{
+			"name": "1.4: Fraction Sum",
+			"path": "frac_sum"
+		},
+		{
+			"name": "1.5: Own Program",
+			"path": "intro"
+		},
+		{
+			"name": "1.6: Vector",
+			"path": "vector"
+		}
+	]
+}
