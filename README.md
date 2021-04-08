@@ -1,5 +1,5 @@
 # Basics in C
-Simple exercises made in one of my C classes at Aalto University
+Simple exercises from one of my C courses at Aalto University
 
 ### Module 1
 Basics
